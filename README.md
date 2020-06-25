@@ -22,3 +22,5 @@ Depends on:
 1. Repo update with ```sudo apt update```
 2. Install software dependencies with ```sudo apt install conky-all curl jq gawk```
 3. Install [Conky Vision](https://github.com/zagortenay333/conky-Vision), see __Installation__
+   > Run ```install``` script with ```./install``` (automatic) __or__
+   > Move ```.conky-vision``` folder & ```.conkyrc``` file into your home ```~``` directory (manual)
