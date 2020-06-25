@@ -1,2 +1,2 @@
-# Minimal Conky
+# MNML Conky
 A clean and simple Conky setup derived from the Conky Vision theme
