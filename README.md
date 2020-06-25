@@ -8,4 +8,8 @@ A clean and simple Conky theme derived from [Conky Vision](https://github.com/za
 ## Dependencies
 Depends on:
 * __conky__ ```1.10.x```
+* __curl__
+*__jq__
+*__gawk__
 * __[OpenWeatherMap](http://openweathermap.org)__ 
+* __[Poiret One](https://fonts.google.com/specimen/Poiret+One)__
