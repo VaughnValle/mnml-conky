@@ -4,6 +4,7 @@
 ## Description
 A clean and simple Conky theme derived from [Conky Vision](https://github.com/zagortenay333/conky-Vision)
 
+It shows the current weather and forecast for the next 4 days while keeping a minimal interface
 ---
 
 ## Dependencies
