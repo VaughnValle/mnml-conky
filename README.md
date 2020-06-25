@@ -6,7 +6,6 @@ A clean and simple [Conky](https://github.com/brndnmtthws/conky) theme derived f
 
 This Conky theme shows the current weather and forecast for the next 4 days while keeping a minimal interface
 
----
 
 ## Dependencies
 Depends on:
