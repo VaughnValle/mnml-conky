@@ -35,5 +35,5 @@ Depends on:
    - Edit the ```.conkyrc``` file with any text editor you prefer, e.g. ```sudo nano /path/to/home/.conkyrc``` for __nano__
    - Place your OWM API key in the ```template6``` variable of the file.
    - Place your City ID in the ```template7``` variable of the file.
-   - Save your changes with ```Ctrl+X```, then hit ```Y+Enter``` when prompted
+   - Save your changes with ```Ctrl+X```, then hit ```Y+Enter``` when prompted (for __nano__)
    - Run [Conky](https://github.com/brndnmtthws/conky) with the command ```conky``` in the terminal and enjoy :) 
