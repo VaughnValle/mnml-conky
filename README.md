@@ -1,2 +1,2 @@
-# conky
-A clean and simple Conky setup derived from Conky Vision theme
+# Minimal Conky
+A clean and simple Conky setup derived from the Conky Vision theme
