@@ -3,4 +3,4 @@
 
 ## Description
 A clean and simple Conky theme derived from Conky Vision
->Uses [OpenWeatherMap]http://openweathermap.org for weather forecast
+>Uses [OpenWeatherMap](http://openweathermap.org) for weather forecast
