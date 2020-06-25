@@ -26,6 +26,13 @@ Depends on:
 4. Install software dependencies with ```sudo apt install git conky-all curl jq gawk```
 5. Install [Conky Vision](https://github.com/zagortenay333/conky-Vision), see __Installation__
    - Clone repo with ```git clone https://github.com/zagortenay333/conky-Vision.git```
-   - Cd into dir with ```cd conky-Vision```
-   - Run ```install``` script with ```./install``` (automatic) __or__
-   - Move ```.conky-vision``` folder & ```.conkyrc``` file into your home ```~``` directory (manual)
+   - Change current dir to cloned repo with ```cd conky-Vision```
+   - Run ```install``` script with ```./install```
+6. Install [MNML Conky](https://github.com/VaughnValle/mnml_conky)
+   - Clone repo with ```git clone https://github.com/VaughnValle/mnml_conky.git```
+   - Change current dir to cloned repo with ```cd mnml_conky```
+   - Copy ```.conkyrc``` and replace the current one in home directory with ```cp .conkyrc /path/to/home
+   - Edit the ```.conkyrc``` file with any text editor you prefer, e.g. ```sudo nano /path/to/home/.conkyrc``` for __nano__
+   - Place your OWM API key in the ```template6``` variable in the file.
+   - Place your City ID in the ```template7``` variable in the file.
+   - Run [Conky](https://github.com/brndnmtthws/conky) with the command ```conky``` in the terminal and enjoy :) 
