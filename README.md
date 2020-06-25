@@ -13,8 +13,8 @@ Depends on:
 * __curl__ (build)
 * __jq__ (build)
 * __gawk__ (build)
-* __[OpenWeatherMap](http://openweathermap.org)__ (for displaying weather forecast) 
-* __[Poiret One](https://fonts.google.com/specimen/Poiret+One)__ (for fonts)
+* __[OpenWeatherMap](http://openweathermap.org)__ (weather forecast) 
+* __[Poiret One](https://fonts.google.com/specimen/Poiret+One)__ (fonts)
 
 
 ## Installation Steps
