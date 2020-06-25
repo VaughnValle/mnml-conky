@@ -7,4 +7,5 @@ A clean and simple Conky theme derived from [Conky Vision](https://github.com/za
 
 ## Dependencies
 Depends on:
-* conky ```1.10.x```
+* _conky_ ```1.10.x```
+* _[OpenWeatherMap](http://openweathermap.org)_ 
