@@ -31,8 +31,8 @@ Depends on:
 6. Install [MNML Conky](https://github.com/VaughnValle/mnml_conky)
    - Clone repo with ```git clone https://github.com/VaughnValle/mnml_conky.git```
    - Change current dir to cloned repo with ```cd mnml_conky```
-   - Copy ```.conkyrc``` and replace the current one in home directory with ```cp .conkyrc /path/to/home
+   - Copy ```.conkyrc``` and replace the current one in your home directory with ```cp .conkyrc /path/to/home```
    - Edit the ```.conkyrc``` file with any text editor you prefer, e.g. ```sudo nano /path/to/home/.conkyrc``` for __nano__
-   - Place your OWM API key in the ```template6``` variable in the file.
-   - Place your City ID in the ```template7``` variable in the file.
+   - Place your OWM API key in the ```template6``` variable of the file.
+   - Place your City ID in the ```template7``` variable of the file.
    - Run [Conky](https://github.com/brndnmtthws/conky) with the command ```conky``` in the terminal and enjoy :) 
