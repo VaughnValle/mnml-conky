@@ -13,6 +13,7 @@ Depends on:
 * __curl__ (build)
 * __jq__ (build)
 * __gawk__ (build)
+* __[Conky Vision](https://github.com/zagortenay333/conky-Vision)__ (Conky theme)
 * __[OpenWeatherMap](http://openweathermap.org)__ (weather forecast) 
 * __[Poiret One](https://fonts.google.com/specimen/Poiret+One)__ (fonts)
 
