@@ -20,7 +20,8 @@ Depends on:
 
 
 ## Installation Steps (Ubuntu 20.04)
-1. Update repositories with ```sudo apt update```
+1. Update repositories with 
+```sudo apt update```
 2. Install software dependencies with ```sudo apt install git conky-all curl jq gawk```
 3. Install [Conky Vision](https://github.com/zagortenay333/conky-Vision), see __Installation__
    - Clone repo with ```git clone https://github.com/zagortenay333/conky-Vision.git```
