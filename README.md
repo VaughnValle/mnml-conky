@@ -6,3 +6,5 @@ A clean and simple Conky theme derived from [Conky Vision](https://github.com/za
 >Uses [OpenWeatherMap](http://openweathermap.org) for displaying the weather forecast
 
 ## Dependencies
+Depends on:
+* conky ```1.10.x```
