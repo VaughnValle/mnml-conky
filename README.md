@@ -2,9 +2,10 @@
 ![Preview](https://github.com/VaughnValle/demo/blob/master/preview.png)
 
 ## Description
-A clean and simple Conky theme derived from [Conky Vision](https://github.com/zagortenay333/conky-Vision)
+A clean and simple [Conky](https://github.com/brndnmtthws/conky) theme derived from [Conky Vision](https://github.com/zagortenay333/conky-Vision)
 
-It shows the current weather and forecast for the next 4 days while keeping a minimal interface
+This Conky theme shows the current weather and forecast for the next 4 days while keeping a minimal interface
+
 ---
 
 ## Dependencies
