@@ -17,4 +17,6 @@ Depends on:
 * __[Poiret One](https://fonts.google.com/specimen/Poiret+One)__ (fonts)
 
 
-## Installation Steps
+## Installation Steps (Ubuntu 20.04)
+1. Repo update with ```sudo apt update```
+2. Install software dependencies with ```sudo apt install conky-all curl jq gawk```
