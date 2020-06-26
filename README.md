@@ -32,7 +32,7 @@ Depends on:
    - Clone repo
             
          $ git clone https://github.com/VaughnValle/mnml_conky.git
-   - Change current dir to cloned repo 
+   - Change current directory to cloned repo 
    
          $ cd mnml_conky
    - Copy ```.conkyrc``` and replace the current one in your home directory
@@ -42,8 +42,12 @@ Depends on:
      
      for __nano__:
          
-         $ sudo nano /path/to/home/.conkyrc
+         # nano /path/to/home/.conkyrc
    - Place your OWM API key in the ```template6``` variable of the file.
+   
+         template6="[Place OWM API key here]",
    - Place your City ID in the ```template7``` variable of the file.
+      
+         template7="[Place City ID here]",
    - Save your changes with ```Ctrl+X```, then hit ```Y ``` then ```Enter``` when prompted (for __nano__)
    - Run [Conky](https://github.com/brndnmtthws/conky) with the command ```conky``` in the terminal and enjoy :) 
