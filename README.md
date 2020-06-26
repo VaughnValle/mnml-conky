@@ -22,7 +22,7 @@ Depends on:
 ## Installation Steps (Ubuntu 20.04)
 1. Register an account on [OpenWeatherMap](http://openweathermap.org) to get a free private API key for weather forecasts
 2. Find your City ID from OWM's [list](http://bulk.openweathermap.org/sample/city.list.json.gz) 
-3. Update repositories 
+3. Update repositories with
    
        # apt update
 4. Install software dependencies with 
@@ -39,16 +39,16 @@ Depends on:
          
          $ ./install
 6. Install [MNML Conky](https://github.com/VaughnValle/mnml_conky)
-   - Clone repo
+   - Clone repo with
             
          $ git clone https://github.com/VaughnValle/mnml_conky.git
-   - Change current directory to cloned repo 
+   - Change current directory to cloned repo with 
    
          $ cd mnml_conky
-   - Copy ```.conkyrc``` and replace the current one in your home directory
+   - Copy ```.conkyrc``` and replace the current one in your home directory with
    
          # cp .conkyrc /path/to/home
-   - Edit the ```.conkyrc``` file with any text editor you prefer
+   - Edit the ```.conkyrc``` file with any text editor you prefer with
      
      for __nano__:
          
