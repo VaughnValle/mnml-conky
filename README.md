@@ -59,5 +59,5 @@ Depends on:
    - Place your City ID in the ```template7``` variable of the file.
       
          template7="[Place City ID here]",
-   - Save your changes with ```Ctrl+X```, then hit ```Y ``` then ```Enter``` when prompted (for __nano__)
+   - Save your changes with ```Ctrl+X```; hit ```Y ``` then ```Enter``` when prompted (for __nano__)
    - Run [Conky](https://github.com/brndnmtthws/conky) with the command ```conky``` in the terminal and enjoy :) 
