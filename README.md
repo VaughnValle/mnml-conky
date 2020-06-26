@@ -60,4 +60,7 @@ Depends on:
       
          template7="[Place City ID here]",
    - Save your changes with ```Ctrl+X```; hit ```Y ``` then ```Enter``` when prompted (for __nano__)
-   - Run [Conky](https://github.com/brndnmtthws/conky) with the command ```conky``` in the terminal and enjoy :) 
+   - Run [Conky](https://github.com/brndnmtthws/conky) with 
+      
+         $ conky 
+   - Enjoy :) 
