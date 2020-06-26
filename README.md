@@ -29,7 +29,9 @@ Depends on:
    - Change current dir to cloned repo with ```cd conky-Vision```
    - Run ```install``` script with ```./install```
 6. Install [MNML Conky](https://github.com/VaughnValle/mnml_conky)
-   - Clone repo with ```git clone https://github.com/VaughnValle/mnml_conky.git```
+   - Clone repo
+            
+         ```git clone https://github.com/VaughnValle/mnml_conky.git```
    - Change current dir to cloned repo with ```cd mnml_conky```
    - Copy ```.conkyrc``` and replace the current one in your home directory with ```cp .conkyrc /path/to/home```
    - Edit the ```.conkyrc``` file with any text editor you prefer, e.g. ```sudo nano /path/to/home/.conkyrc``` for __nano__
