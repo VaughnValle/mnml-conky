@@ -29,7 +29,7 @@ Depends on:
 
        # apt install git conky-all curl jq gawk
 5. Install [Conky Vision](https://github.com/zagortenay333/conky-Vision), see __Installation__
-   - Clone repo
+   - Clone repo with
    
          $ git clone https://github.com/zagortenay333/conky-Vision.git
    - Change current directory to cloned repo with 
