@@ -22,12 +22,22 @@ Depends on:
 ## Installation Steps (Ubuntu 20.04)
 1. Register an account on [OpenWeatherMap](http://openweathermap.org) to get a free private API key for weather forecasts
 2. Find your City ID from OWM's [list](http://bulk.openweathermap.org/sample/city.list.json.gz) 
-3. Update repositories with ```sudo apt update```
-4. Install software dependencies with ```sudo apt install git conky-all curl jq gawk```
+3. Update repositories 
+   
+       # apt update
+4. Install software dependencies with 
+
+       # apt install git conky-all curl jq gawk
 5. Install [Conky Vision](https://github.com/zagortenay333/conky-Vision), see __Installation__
-   - Clone repo with ```git clone https://github.com/zagortenay333/conky-Vision.git```
-   - Change current dir to cloned repo with ```cd conky-Vision```
-   - Run ```install``` script with ```./install```
+   - Clone repo
+   
+         $ git clone https://github.com/zagortenay333/conky-Vision.git
+   - Change current directory to cloned repo with 
+   
+         $ cd conky-Vision
+   - Run ```install``` script with 
+         
+         $ ./install
 6. Install [MNML Conky](https://github.com/VaughnValle/mnml_conky)
    - Clone repo
             
